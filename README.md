@@ -334,4 +334,4 @@ Treat it accordingly.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+AGPL-3.0. See [LICENSE](LICENSE).
